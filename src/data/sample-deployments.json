@@ -1,0 +1,149 @@
+{
+    "deployments": [
+      {
+        "timestamp": "1983-04-24T04:40:00+02:00",
+        "user": {
+          "name": "Harini"
+        },
+        "product": {
+          "name": "wifi-api",
+          "type": "api",
+          "team": "wifi"
+        },
+        "environment": "test",
+        "status": {
+          "duration": 59,
+          "success": true
+        },
+        "version": "commithash",
+        "description": "deploy description/commit msg",
+        "source": "ado|rundeck|jenkins"
+      },
+      {
+        "timestamp": "1983-04-24T04:40:00+02:00",
+        "user": {
+          "name": "David",
+          "team": "wifi"
+        },
+        "product": {
+          "name": "wifi-api",
+          "type": "api"
+        },
+        "environment": "test",
+        "status": {
+          "length": 59,
+          "success": true
+        },
+        "version": "commithash",
+        "description": "deploy description/commit msg"
+      },
+      {
+        "timestamp": "1983-04-24T04:40:00+02:00",
+        "user": {
+          "name": "Edwin",
+          "team": "wifi"
+        },
+        "product": {
+          "name": "wifi-api",
+          "type": "api"
+        },
+        "environment": "test",
+        "status": {
+          "length": 59,
+          "success": true
+        },
+        "version": "commithash",
+        "description": "deploy description/commit msg"
+      },
+      {
+        "timestamp": "1983-04-24T04:40:00+02:00",
+        "user": {
+          "name": "john",
+          "team": "wifi"
+        },
+        "product": {
+          "name": "wifi-api",
+          "type": "api"
+        },
+        "environment": "test",
+        "status": {
+          "length": 59,
+          "success": true
+        },
+        "version": "commithash",
+        "description": "deploy description/commit msg"
+      },
+      {
+        "timestamp": "1983-04-24T04:40:00+02:00",
+        "user": {
+          "name": "Therese",
+          "team": "wifi"
+        },
+        "product": {
+          "name": "wifi-api",
+          "type": "api"
+        },
+        "environment": "test",
+        "status": {
+          "length": 59,
+          "success": true
+        },
+        "version": "commithash",
+        "description": "deploy description/commit msg"
+      },
+      {
+        "timestamp": "1983-04-24T04:40:00+02:00",
+        "user": {
+          "name": "Mohan",
+          "team": "wifi"
+        },
+        "product": {
+          "name": "wifi-api",
+          "type": "api"
+        },
+        "environment": "test",
+        "status": {
+          "length": 59,
+          "success": true
+        },
+        "version": "commithash",
+        "description": "deploy description/commit msg"
+      },
+      {
+        "timestamp": "1983-04-24T04:40:00+02:00",
+        "user": {
+          "name": "Rajesh",
+          "team": "wifi"
+        },
+        "product": {
+          "name": "wifi-api",
+          "type": "api"
+        },
+        "environment": "test",
+        "status": {
+          "length": 59,
+          "success": true
+        },
+        "version": "commithash",
+        "description": "deploy description/commit msg"
+      },
+      {
+        "timestamp": "1983-04-24T04:40:00+02:00",
+        "user": {
+          "name": "Martin",
+          "team": "wifi"
+        },
+        "product": {
+          "name": "wifi-api",
+          "type": "api"
+        },
+        "environment": "test",
+        "status": {
+          "length": 59,
+          "success": true
+        },
+        "version": "commithash",
+        "description": "deploy description/commit msg"
+      }
+    ]
+  }
