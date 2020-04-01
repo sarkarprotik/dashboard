@@ -39,7 +39,9 @@ export default function InfoIcon() {
       onClick={toggleDrawer(side, false)}
       onKeyDown={toggleDrawer(side, false)}
     >
-        <h3 style={{margin: 20, display: 'flex', justifyContent: 'flex-end',}}>© 2020 Scandinavian Airlines System Denmark-Norway-Sweden, org.nr 902001-7720, 195 87 Stockholm</h3>
+        <h3 style={{margin: 20, display: 'flex', justifyContent: 'flex-end',}}>
+          Created by Protik Sarkar
+          </h3>
    
     </div>
   );
