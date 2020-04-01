@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sarkarprotik/dashboard/static/css/main.3a3cb3f4.chunk.css",
-    "main.js": "/sarkarprotik/dashboard/static/js/main.00b20e2e.chunk.js",
-    "main.js.map": "/sarkarprotik/dashboard/static/js/main.00b20e2e.chunk.js.map",
-    "runtime-main.js": "/sarkarprotik/dashboard/static/js/runtime-main.63eb3bfb.js",
-    "runtime-main.js.map": "/sarkarprotik/dashboard/static/js/runtime-main.63eb3bfb.js.map",
-    "static/js/2.c5bb4a45.chunk.js": "/sarkarprotik/dashboard/static/js/2.c5bb4a45.chunk.js",
-    "static/js/2.c5bb4a45.chunk.js.map": "/sarkarprotik/dashboard/static/js/2.c5bb4a45.chunk.js.map",
-    "index.html": "/sarkarprotik/dashboard/index.html",
-    "precache-manifest.cd3e9dd88933450b185c5b9aea273d30.js": "/sarkarprotik/dashboard/precache-manifest.cd3e9dd88933450b185c5b9aea273d30.js",
-    "service-worker.js": "/sarkarprotik/dashboard/service-worker.js",
-    "static/css/main.3a3cb3f4.chunk.css.map": "/sarkarprotik/dashboard/static/css/main.3a3cb3f4.chunk.css.map",
-    "static/js/2.c5bb4a45.chunk.js.LICENSE": "/sarkarprotik/dashboard/static/js/2.c5bb4a45.chunk.js.LICENSE"
+    "main.css": "/dashboard/static/css/main.3a3cb3f4.chunk.css",
+    "main.js": "/dashboard/static/js/main.b56acd55.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.b56acd55.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.80dd325f.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.80dd325f.js.map",
+    "static/js/2.9f3dbac8.chunk.js": "/dashboard/static/js/2.9f3dbac8.chunk.js",
+    "static/js/2.9f3dbac8.chunk.js.map": "/dashboard/static/js/2.9f3dbac8.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "precache-manifest.773d45e2820ede8497bb4ad70aa7b948.js": "/dashboard/precache-manifest.773d45e2820ede8497bb4ad70aa7b948.js",
+    "service-worker.js": "/dashboard/service-worker.js",
+    "static/css/main.3a3cb3f4.chunk.css.map": "/dashboard/static/css/main.3a3cb3f4.chunk.css.map",
+    "static/js/2.9f3dbac8.chunk.js.LICENSE": "/dashboard/static/js/2.9f3dbac8.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.63eb3bfb.js",
-    "static/js/2.c5bb4a45.chunk.js",
+    "static/js/runtime-main.80dd325f.js",
+    "static/js/2.9f3dbac8.chunk.js",
     "static/css/main.3a3cb3f4.chunk.css",
-    "static/js/main.00b20e2e.chunk.js"
+    "static/js/main.b56acd55.chunk.js"
   ]
 }
