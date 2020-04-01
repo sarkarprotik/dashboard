@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sarkarprotik/dashboard/static/css/main.3a3cb3f4.chunk.css",
+    "main.js": "/sarkarprotik/dashboard/static/js/main.00b20e2e.chunk.js",
+    "main.js.map": "/sarkarprotik/dashboard/static/js/main.00b20e2e.chunk.js.map",
+    "runtime-main.js": "/sarkarprotik/dashboard/static/js/runtime-main.63eb3bfb.js",
+    "runtime-main.js.map": "/sarkarprotik/dashboard/static/js/runtime-main.63eb3bfb.js.map",
+    "static/js/2.c5bb4a45.chunk.js": "/sarkarprotik/dashboard/static/js/2.c5bb4a45.chunk.js",
+    "static/js/2.c5bb4a45.chunk.js.map": "/sarkarprotik/dashboard/static/js/2.c5bb4a45.chunk.js.map",
+    "index.html": "/sarkarprotik/dashboard/index.html",
+    "precache-manifest.cd3e9dd88933450b185c5b9aea273d30.js": "/sarkarprotik/dashboard/precache-manifest.cd3e9dd88933450b185c5b9aea273d30.js",
+    "service-worker.js": "/sarkarprotik/dashboard/service-worker.js",
+    "static/css/main.3a3cb3f4.chunk.css.map": "/sarkarprotik/dashboard/static/css/main.3a3cb3f4.chunk.css.map",
+    "static/js/2.c5bb4a45.chunk.js.LICENSE": "/sarkarprotik/dashboard/static/js/2.c5bb4a45.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63eb3bfb.js",
+    "static/js/2.c5bb4a45.chunk.js",
+    "static/css/main.3a3cb3f4.chunk.css",
+    "static/js/main.00b20e2e.chunk.js"
+  ]
+}
